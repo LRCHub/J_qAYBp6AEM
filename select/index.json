@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Iridescent",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-03-16T07:31:58.997782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "ASC",
+      "has_synced": false,
+      "path": "select/01_Iridescent_ASC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Iridescent Leaves Floating Downstream",
+      "artist": "G. Jones",
+      "has_synced": true,
+      "path": "select/02_Iridescent_Leaves_Floating_Downstream_G._Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/03_Iridescent_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Iridescent_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Iridescent (Live from Paris, 2010)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/05_Iridescent_(Live_from_Paris,_2010)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_Iridescent_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "Silent Planet",
+      "has_synced": true,
+      "path": "select/07_Iridescent_Silent_Planet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Iridescent (Energy Up Version)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Iridescent_(Energy_Up_Version)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Iridescent (Instrumental)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Iridescent_(Instrumental)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Iridescent [Instrumental]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Iridescent_[Instrumental]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Iridescent_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Iridescent_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Iridescent (Version 2)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Iridescent_(Version_2)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Iridescent (2011)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Iridescent_(2011)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Iridescent (2011)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Iridescent_(2011)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Iridescent",
+      "artist": "[LINKIN PARK]",
+      "has_synced": true,
+      "path": "select/16_Iridescent_[LINKIN_PARK].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Iridescent",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Iridescent_Linkin_Park.txt"
+    }
+  ]
+}
